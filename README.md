@@ -9,7 +9,7 @@ Diagrama html: file: ///C:/Users/Jordy/POO-GITHUB/concesionaria-practica4/Diagra
 
 
 
-Informe html: file:///C:/Users/Jordy/Desktop/PRACTICA%206%20APLICACION%20MVC%20Jordy%20Roblero%20(3).htm
+Informe html: file: ///C:/Users/Jordy/Desktop/PRACTICA%206%20APLICACION%20MVC%20Jordy%20Roblero%20(3).htm
 [Uploadi<html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
